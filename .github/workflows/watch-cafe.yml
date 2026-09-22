@@ -2,7 +2,7 @@ name: PUBG 공식카페 게시판 감시
 
 on:
   schedule:
-    # 매 5분마다 실행 (GitHub 사양상 정확히 10분 간격이 아니라 다소 지연될 수 있음)
+    # 매 5분마다 실행 (GitHub 사양상 정확히 5분 간격이 아니라 다소 지연될 수 있음)
     - cron: "*/5 * * * *"
   workflow_dispatch: {}   # Actions 탭에서 수동 실행 버튼으로도 테스트 가능
 
