@@ -1,4 +1,3 @@
-markdown
 # PUBG 공식카페 게시판 → Slack 알림
 
 배틀그라운드 공식카페(`https://cafe.naver.com/playbattlegrounds`)의
